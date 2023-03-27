@@ -1,0 +1,9 @@
+#gachngang{
+    text-decoration:line-through;
+    color: #cccccc;
+    display: inline-block;
+}
+.s_product_text h2{
+    display: inline-block;
+    padding-right: 15px;
+}

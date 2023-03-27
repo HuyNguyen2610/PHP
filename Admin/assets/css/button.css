@@ -1,0 +1,11 @@
+#nut{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%); 
+    width:150px; 
+    border: solid 0px;
+}
+#login{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%); 
+    border: solid 0px;
+}

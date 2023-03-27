@@ -1,0 +1,17 @@
+#size{
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    color: #555555;
+}
+.mau{
+    display: inline-block;
+}
+.mausac{
+    display: inline-block;
+    padding-top: 5;
+    height: 25px;
+}
+.nice-select{
+    line-height: 30px !important;
+}
